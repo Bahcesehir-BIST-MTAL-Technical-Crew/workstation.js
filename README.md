@@ -1,8 +1,6 @@
 <h1 align="center">Workstation.js</h1>
 <p>Workstation Projesi için bir hub Discord Botu.</p>
 <br>
-<hr>
-<br>
 <h3>Katkıda Bulunanlar</h3>
 <ul>
     <li>Berrrk</li>
