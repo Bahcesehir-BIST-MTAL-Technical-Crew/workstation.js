@@ -1,6 +1,9 @@
-<h1 fontsize="32px">Workstation.js</h1>
-<h1>Selam</h1>
-<p fontsize="18px">Workstation Projesi için bir hub Discord Botu.</p>
+<h1 align="center">Workstation.js</h1>
+<p>Workstation Projesi için bir hub Discord Botu.</p>
+<br>
+<hr>
+<br>
+<h3>Katkıda Bulunanlar</h3>
 <ul>
     <li>Berrrk</li>
     <li>MutiBoy</li>
